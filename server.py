@@ -22,4 +22,4 @@ def should_make_call():
     return True  # Modify this as needed
 
 if __name__ == '__main__':
-    app.run(host='171.51.237.38', port=80)
+    app.run(host='106.194.207.115', port=80)
